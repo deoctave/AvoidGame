@@ -6,8 +6,7 @@ This repository contains all the code for my game. Everything is sorted into fol
 
 Вот так выглядит игра / This is how the game looks like
 
-![](https://github.com/deoctave/AvoidGame/blob/main/Game%20photo%20(1).jpg)
-![](https://github.com/deoctave/AvoidGame/blob/main/Game%20photo%20(2).jpg)
-![](https://github.com/deoctave/AvoidGame/blob/main/Game%20photo%20(3).jpg)
-![](https://github.com/deoctave/AvoidGame/blob/main/Game%20photo%20(4).jpg)
-![](https://github.com/deoctave/AvoidGame/blob/main/Game%20photo%20(5).jpg)
+<img src="https://github.com/deoctave/AvoidGame/blob/main/Game%20photo%20(1).jpg" width="250">
+<img src="https://github.com/deoctave/AvoidGame/blob/main/Game%20photo%20(2).jpg" width="250">
+<img src="https://github.com/deoctave/AvoidGame/blob/main/Game%20photo%20(3).jpg" width="250">
+<img src="https://github.com/deoctave/AvoidGame/blob/main/Game%20photo%20(4).jpg" width="250">
